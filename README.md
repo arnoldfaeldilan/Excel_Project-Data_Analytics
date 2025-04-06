@@ -6,7 +6,7 @@
 ![salary_dashboards](https://github.com/user-attachments/assets/692b3043-bd8c-4b6d-8228-0ac238755931)
 
 ## Salary Analysis
-[Check out my work here](Project2-Salary_Analysis)
+[Check out my work here](Project2-Salary_Analysis.xlsx)
 
 ![salary_analysis1](https://github.com/user-attachments/assets/bf7de7e3-175e-4f09-99a0-e26ef6bca94c)
 ![salary_analysis2](https://github.com/user-attachments/assets/954e7d9b-8809-44d7-9f2b-9388b697a800)
