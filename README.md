@@ -1,7 +1,7 @@
 # My Excel Data Analytics Projects
 
 ## Salary Dashboards
-[Check out my work here](Project1-Salary_Dashboards)
+[Check out my work here](Project1-Salary_Dashboards.xlsm)
 
 ![salary_dashboards](https://github.com/user-attachments/assets/692b3043-bd8c-4b6d-8228-0ac238755931)
 
