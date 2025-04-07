@@ -1,8 +1,9 @@
 <h1> <align="center">
-  <img src="images\excel_logo.jpg" alt="Logo" width="40" style="vertical-align: middle; margin-right: 10px;" />
- <align="center> Excel for Data Analytics - Simple Projects
+  <span style="display: inline-flex; align-items: center; gap: 10px;">
+    <img src="images\excel_logo.jpg" alt="Logo" width="40" height="40">
+    <span style="font-size: 2em;">Excel for Data Analytics</span>
+  </span>
 </h1>
-
 
 [Check out my work here](Project1-Salary_Dashboards.xlsm)
 
