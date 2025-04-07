@@ -1,9 +1,11 @@
-<h1>
-  <span style="display: inline-flex; align-items: center; gap: 10px;">
+
+ <span style="display: inline-flex; align-items: center; gap: 10px;">
     <img src="images\excel_logo.jpg" alt="Logo" width="28" height="30">
     <span style="font-size: 30px; max-width: 554px; align-items: center">Excel for Data Analytics</span>
   </span>
-</h1>
+
+
+
 
 [Check out my work here](Project1-Salary_Dashboards.xlsm)
 
