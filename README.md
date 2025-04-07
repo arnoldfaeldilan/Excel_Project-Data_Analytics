@@ -1,6 +1,6 @@
 <h1> <align="center">
   <span style="display: inline-flex; align-items: center; gap: 10px;">
-    <img src="images\excel_logo.jpg" alt="Logo" width="40" height="40">
+    <img src="images\excel_logo.jpg" alt="Logo" width="40" height="30">
     <span style="font-size: 2em;">Excel for Data Analytics</span>
   </span>
 </h1>
