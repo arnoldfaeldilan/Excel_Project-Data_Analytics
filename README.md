@@ -1,6 +1,6 @@
 <h1>
   <img src="images\excel_logo.jpg" alt="Logo" width="40" style="vertical-align: middle; margin-right: 10px;" />
- Excel for Data Analytics - Simple Projects
+ <align>Excel for Data Analytics - Simple Projects
 </h1>
 
 
