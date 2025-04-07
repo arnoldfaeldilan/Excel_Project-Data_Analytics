@@ -1,7 +1,7 @@
 <h1> <align="center">
   <span style="display: inline-flex; align-items: center; gap: 10px;">
-    <img src="images\excel_logo.jpg" alt="Logo" width="40" height="30">
-    <span style="font-size: 2em;">Excel for Data Analytics</span>
+    <img src="images\excel_logo.jpg" alt="Logo" width="40" height="40">
+    <span style="font-size: 40px; max-width: 554px;">Excel for Data Analytics</span>
   </span>
 </h1>
 
