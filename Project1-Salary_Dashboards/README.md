@@ -31,7 +31,7 @@ The dataset used for this project contains real-world data science job informati
 
 #### 📊 Data Science Job Salaries - Bar Chart
 
-![Dashboard_Chart1](/Project1-Salary_Dashboards/assets/job_title_bar_chart.jpg)
+![Dashboard_Chart1](/Project1-Salary_Dashboards/assets/bar.jpg)
 
 - 🛠️ **Excel Features:** Utilized bar chart feature (with formatted salary values) and optimized layout for clarity.
 - 🎨 **Design Choice:** Horizontal bar chart for visual comparison of median salaries.
@@ -70,4 +70,38 @@ IF(
 
 🍽️ Background Table
 
+![Dashboard_Chart1_table](/Project1-Salary_Dashboards/assets/bar_table.jpg)
 
+📉 Dashboard Implementation:
+
+![Dashboard_Chart1_dataVal](/Project1-Salary_Dashboards/assets/bar_dataval.jpg)
+
+#### ⏰ Count of Job Schedule Type
+
+```
+=FILTER(J2#,(NOT(ISNUMBER(SEARCH("and",J2#))+ISNUMBER(SEARCH(",",J2#))))*(J2#<>0))
+```
+
+- 🔍 **Unique List Generation:** This Excel formula below employs the `FILTER()` function to exclude entries containing "and" or commas, and omit zero values.
+- **🔢 Formula Purpose:** This formula populates the table below, which gives us a list of unique job schedule types.
+
+🍽️ Background Table
+
+![Type_BG_Table](/Project1-Salary_Dashboards/assets/type_table.jpg)
+
+📉 Dashboard Implementation:
+
+![type_chart](/Project1-Salary_Dashboards/assets/type_chart.jpg)
+
+### ❎ Data Validation
+
+#### 🔍 Filtered List
+
+- 🔒 **Enhanced Data Validation:** Implementing the filtered list as a data validation rule under the `Job Title`, `Country`, and `Type` option in the Data tab ensures:
+    - 🎯 User input is restricted to predefined, validated schedule types
+    - 🚫 Incorrect or inconsistent entries are prevented
+    - 👥 Overall usability of the dashboard is enhanced
+
+## Conclusion
+
+I created this dashboard to showcase insights into salary trends across various data-related job titles. Utilizing data from my Excel course, this dashboard allows users to make informed decisions about their career paths. Exploring the functionalities to understand how location and job type influence salaries. 
